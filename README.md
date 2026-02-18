@@ -95,7 +95,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🔬 Repository Contribution Analytics
 
 <p align="center">
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
