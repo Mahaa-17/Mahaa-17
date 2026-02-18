@@ -1,18 +1,11 @@
 <h1 align="center">
-<span style="background: linear-gradient(90deg,#ff9a9e,#fad0c4,#fbc2eb,#a6c1ee);
--webkit-background-clip: text;
-color: transparent;
-font-size:40px;
-font-weight:bold;">
-Hi 👋, I'm S. Maha Lakshmi Bai
-</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=2500&pause=800&color=FF61F6&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+S.+Maha+Lakshmi+Bai" />
 </h1>
 
 <h3 align="center">
-<span style="color:#ff69b4;">
-💡 Data Driven Enthusiast | 🎓 CSE Graduate | 📊 Aspiring Data Analyst | ☁️ AWS Learner
-</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=💡+Data+Driven+Enthusiast;🎓+CSE+Graduate;📊+Aspiring+Data+Analyst;☁️+AWS+Cloud+Learner" />
 </h3>
+
 
 
 ---
