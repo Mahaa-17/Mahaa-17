@@ -2,22 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:7873f5,100:4ADEDE&height=240&section=header&text=Hi%20👋%20I'm%20Maha%20Lakshmi%20Bai&desc=Data%20Driven%20Enthusiast%20%7C%20🎓%20CSE%20Graduate%20%7C%20📊%20Aspiring%20Data%20Analyst%20%7C%20☁️%20AWS%20Learner&fontSize=38&descSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h1 align="center">
-<span style="background: linear-gradient(90deg,#ff9a9e,#fad0c4,#fbc2eb,#a6c1ee);
--webkit-background-clip: text;
-color: transparent;
-font-size:40px;
-font-weight:bold;">
-Hi 👋, I'm S. Maha Lakshmi Bai
-</span>
-</h1>
-
-<h3 align="center">
-<span style="color:#ff69b4;">
-💡 Data Driven Enthusiast | 🎓 CSE Graduate | 📊 Aspiring Data Analyst | ☁️ AWS Learner
-</span>
-</h3>
-
 ---
 
 
