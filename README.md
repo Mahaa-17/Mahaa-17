@@ -1,12 +1,18 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Hi%20👋%20I'm%20S.%20Maha%20Lakshmi%20Bai&fontSize=40&fontColor=ff69b4&animation=fadeIn" />
-</p>
+<h1 align="center">
+<span style="background: linear-gradient(90deg,#ff9a9e,#fad0c4,#fbc2eb,#a6c1ee);
+-webkit-background-clip: text;
+color: transparent;
+font-size:40px;
+font-weight:bold;">
+Hi 👋, I'm S. Maha Lakshmi Bai
+</span>
+</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=💡+Data+Driven+Enthusiast;🎓+CSE+Graduate;📊+Aspiring+Data+Analyst;☁️+AWS+Cloud+Learner" />
-</p>
-
-
+<h3 align="center">
+<span style="color:#ff69b4;">
+💡 Data Driven Enthusiast | 🎓 CSE Graduate | 📊 Aspiring Data Analyst | ☁️ AWS Learner
+</span>
+</h3>
 ---
 
 ## 🌸 About Me
