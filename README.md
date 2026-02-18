@@ -14,6 +14,7 @@ Hi 👋, I'm S. Maha Lakshmi Bai
 </span>
 </h3>
 
+---
 
 
 ## 🌸 About Me
